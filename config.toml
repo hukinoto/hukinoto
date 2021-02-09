@@ -1,4 +1,6 @@
-baseurl = "https://example.org/"
+baseurl = "https://hukinoto.github.io/hukinoto"
+publishDir = "docs"
+canonifyurls = true
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
